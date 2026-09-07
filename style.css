@@ -981,6 +981,7 @@ p {
     .contato-item {
         width: 100%;
         max-width: 320px;
+        min-height: 180px;
         box-sizing: border-box;
     }
 
