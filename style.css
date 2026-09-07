@@ -988,8 +988,7 @@ p {
         padding: 45px 20px 25px;
     }
 
-    .rodape-links {
-        flex-direction: column;
+    .rodape-links { 
         gap: 15px;
     } 
 
@@ -1076,6 +1075,10 @@ p {
 
     .galeria-item img {
         height: 360px;
+    }
+
+    .rodape-links {
+        flex-direction: column;
     }
 }
 
