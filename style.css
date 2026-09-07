@@ -1087,6 +1087,11 @@ p {
     .rodape-links {
         flex-direction: column;
     }
+
+    .contato-item {
+        height: 145px;
+        min-height: 145px;
+    }
 }
 
 /* SOBRE MIM - DESKTOP */
