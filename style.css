@@ -1197,7 +1197,7 @@ p {
 }
 
 @media (max-width: 768px) {
-  .contato-card {
+  .rodape-links .contato-item {
     width: calc(100% - 40px);
     margin-left: auto;
     margin-right: auto;
