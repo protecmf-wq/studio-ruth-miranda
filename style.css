@@ -1196,6 +1196,14 @@ p {
     }
 }
 
+@media (max-width: 768px) {
+  .contato-card {
+    width: calc(100% - 40px);
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+  }
+}
 
 
 
