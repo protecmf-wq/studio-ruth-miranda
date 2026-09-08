@@ -1205,6 +1205,12 @@ p {
   }
 }
 
+@media (max-width: 768px) {
+    .rodape {
+        padding-bottom: 80px;
+    }
+}
+
 
 
 
